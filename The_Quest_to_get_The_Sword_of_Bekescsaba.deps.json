@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "The_Quest_to_get_The_Sword_of_Bekescsaba/1.0.0": {
+        "runtime": {
+          "The_Quest_to_get_The_Sword_of_Bekescsaba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The_Quest_to_get_The_Sword_of_Bekescsaba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
